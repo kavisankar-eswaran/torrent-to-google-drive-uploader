@@ -1,5 +1,5 @@
 <h2>Torrent File to Google Drive Uploader</h2>
-<a href="#">* Note: Only for Legal & Education purpose use only.</a>
+<a>* Note: Only for Legal & Education purpose use only.</a>
 <br>
 <h4>Step:1</h4>
 <p>Download the <strong>app.ipynb</strong> file and upload your Google Drive.</p>
@@ -11,4 +11,4 @@
 <p>Run the <strong>app.ipynb</strong> on your Google Drive. New tap will be opened.</p>
 <br>
 
-<a href="#">* Help: If facing any issues, ping us or comment us.</a>
+<a>* Help: If facing any issues, ping us or comment us.</a>
